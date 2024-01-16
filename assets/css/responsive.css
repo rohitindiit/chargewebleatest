@@ -1,0 +1,230 @@
+@media only screen and (max-width: 1199px)  
+{
+	.applications .applicationsimg .phone1 {
+		max-width: 480px;
+		top: -50%;
+	}
+	.applications {
+	   padding: 60px 0px 80px;
+	}.becomehost {
+    padding: 100px 0px 80px;
+}.ptb-110 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}.advantages .advantages-list {
+    font-size: 30px;
+	    line-height: 54px;
+	padding-left: 45px;
+    padding-top: 145px;
+	min-width:260px;
+}.advantages .advantages-list span {
+    font-size: 160px;
+    left: 0;
+}.pb-180 {
+    padding-bottom: 120px;
+}.advantages .advantagesimg img {
+    max-width: 135px;
+}
+}
+@media only screen and (max-width: 1024px) {
+	.banner-home .bannerimg {
+    max-width: 550px;
+	bottom: -120px;
+}.chargeasynetwork:before {
+    left: 15px;
+}.chargeasynetwork:after , .applications:after{
+    right: 15px;
+}
+}
+@media only screen and (max-width: 991.98px) {
+	.chargeasynetwork:before {
+    display:none
+}.chargeasynetwork:after , .applications:after{
+     display:none
+}.banner-home .banner-content h3 {
+    font-size: 30px;
+}.advantages .advantages-list {
+    font-size: 22px;
+	line-height: 40px;
+	padding-top: 110px;
+	    min-width: 100%;
+}
+.advantages .text-end
+{
+	text-align:left!important;
+}
+.ptb-110 {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}.advantages .advantagesimg img {
+    max-width: 105px;
+}.advantages .advantages-list span {
+    font-size: 130px;
+    left: 10px;
+    bottom: 40px;
+}.applications .applicationsimg .phone1 {
+   position:initial;
+}.applications .applicationsimg .phone1 {
+    max-width: 100%;
+}.becomehost {
+    padding: 80px 0px 80px;
+}.banner-home .bannerimg {
+    max-width: 440px;
+	bottom: -80px;
+}.banner-home {
+    min-height: 400px;
+}.banner-home .banner-content p {
+    margin-top: 15px;
+    margin-bottom: 25px;
+}.heading {
+    font-size: 20px;
+    line-height: 32px;
+}
+.contactus .contactus-form h2 {
+    font-size: 28px;
+}
+.applications p {
+    margin: 25px 0px 25px;
+}.applications .downloadapp img {
+    height: 40px;
+}.applications {
+    padding: 60px 0px 60px;
+}button.navbar-toggler .navbar-toggler-icon {
+	background:url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>")
+}button.navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+	    outline: none!important;
+    box-shadow: none!important;
+}header#myHeader nav.navbar ul li.nav-item a.nav-link {
+    padding: 12px 0px;
+}header#myHeader nav.navbar ul li.nav-item.ms-lg-3 {
+    margin-top: 20px;
+}.contactus .contactus-form .form-group label , .contactus .contactus-form .form-group .form-control , .contactus .contactus-form p {
+    font-size: 14px;    line-height: 22px;
+}.contactus .contactus-form .form-group {
+    margin-bottom: 10px;
+}.btn-primary.mt-4 {
+    margin-top: 10px!important;
+}.contactus .contactus-inner {
+    padding: 20px;
+}.contactus {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+}
+@media only screen and (max-width: 767.98px) {
+	.banner-home .bannerimg {
+    position:initial;
+}.banner-home {
+    flex-direction: column;
+}.banner-home .bannerimg {
+    position: initial;
+    margin-left: auto;
+    margin-bottom: -60px;
+}.preloader img{
+	height:75px;
+}
+.banner-home .banner-content
+{
+	padding:50px 0px;
+}.applications .applicationsimg .phone1 {
+    max-width: 300px;
+}.applications .applicationsimg {
+    text-align: center;
+}.applications p {
+    margin: 0 0px 20px;
+}.advantages .advantagesimg {
+    text-align: center;
+}.pb-180 {
+    padding-bottom: 50px;
+}.locations .locationsimg {
+    text-align: center;
+    margin-top: 20px;
+}.locations .locationsimg img {
+    max-width: 300px;
+}.locations {
+    padding-top: 80px;
+    padding-bottom: 60px;
+}.home-contact {
+    padding: 70px 0px 80px;
+}footer.footer ul.socialicons li {
+    width: 60px;
+    height: 60px;
+    margin-right: 15px;
+}footer.footer ul.socialicons li a img {
+    width: 28px;
+    height: 28px;
+}footer.footer a.footer-logo img {
+    height: 60px;
+}
+header#myHeader nav.navbar a.navbar-brand img {
+    height: 22px;
+}
+header#myHeader nav.navbar a.navbar-brand p {
+       font-size: 12px;
+}
+button.navbar-toggler .navbar-toggler-icon {
+	background:url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>")
+}button.navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+	    outline: none!important;
+    box-shadow: none!important;
+}header#myHeader nav.navbar ul li.nav-item a.nav-link {
+    padding: 12px 0px;
+}header#myHeader nav.navbar ul li.nav-item.ms-lg-3 {
+    margin-top: 20px;
+}.contactus .contactus-form .form-group label , .contactus .contactus-form .form-group .form-control  {
+    font-size: 14px;
+}.contactus .contactus-form .form-group {
+    margin-bottom: 10px;
+}.btn-primary.mt-4 {
+    margin-top: 10px!important;
+}
+.contactus .contactus-form h2 {
+    font-size: 24px;
+    margin-bottom: 0px;
+}.contactus .contactus-form {
+    margin-top: 20px;
+}
+}
+@media only screen and (max-width: 575px) {
+	.banner-home .banner-content h3 {
+    font-size: 24px;
+}.banner-home .banner-content p , .applications p , footer.footer .footer-column p{
+    font-size: 14px;
+    line-height: 22px;
+}.btn-primary  , .btn-secondary{
+    font-size: 14px;
+}.heading {
+    font-size: 18px;
+    line-height: 30px;
+}
+.advantages .advantages-list {
+    font-size: 18px;
+    line-height: 30px;
+    padding-top: 80px;
+}.advantages .advantages-list span {
+    font-size: 100px;
+    bottom: 25px;
+}footer.footer a.footer-logo img {
+    height: 50px;
+}footer.footer ul.socialicons li {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}footer.footer ul.socialicons {
+    margin: 35px 0px;
+}header#myHeader nav.navbar ul li.nav-item a.btn-contact , .contactus .contactus-form p {
+    font-size: 14px;
+}header#myHeader nav.navbar ul li.nav-item a.nav-link {
+    font-size: 14px;
+    padding: 12px 0px;
+}
+}
+@media only screen and (min-width:1250px)  and  (max-width:1400px){
+	.container {
+	    max-width: 1220px;
+	}
+}

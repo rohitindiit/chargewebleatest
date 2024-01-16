@@ -1,0 +1,1 @@
+import{r as e,j as t,s,n as r}from"./index.3f2846ac.js";import"./App.bf7950ee.js";const p=()=>(e.exports.useState(""),e.exports.useState(""),e.exports.useState(""),e.exports.useState("select"),e.exports.useState(""),e.exports.useState(""),t(s.Fragment,{children:t(r,{className:"mb-2",children:t("p",{children:"Hello"})})}));export{p as default};
